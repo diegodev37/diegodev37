@@ -19,7 +19,7 @@
 <a href="https://wa.me/5521981339325"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><br><br>
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodev37)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodev37)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodev37)](https://github.com/diegodev37/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodev37)](https://github.com/diegodev37/github-readme-stats) 
 
 
 
