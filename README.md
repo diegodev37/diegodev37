@@ -18,5 +18,4 @@ Olá me chamo Antônio Diego, tenho 34 anos e estou estudando para me tornar um 
 <a href="diego.dev.37@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br><br>
 <a href="https://wa.me/5521981339325"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={diegodev37}&theme=blue-green">
-  
+
