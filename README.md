@@ -1,6 +1,6 @@
-###📚 <strong>Olá, seja bem-vindo(a) ao meu</strong> <b>GitHub</b> 🧑‍🚀
-
-<i>Olá me chamo Antônio Diego, tenho 34 anos e estou estudando para me tornar um progamador Front-End, criando projetos com:</i><br>
+###📚 <strong>Olá, seja bem-vindo(a) ao meu</strong> <b>GitHub🧑‍🚀
+<h1>Sobre mim:<h1><br>
+<p>Olá me chamo Antônio Diego, tenho 34 anos e estou estudando para me tornar um progamador Front-End, criando projetos com:</p><br><br>
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -9,9 +9,9 @@
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-###Minhas redes Sociais e Contatos.✅💻💻💻
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+<br>
+<h2>Minhas redes Sociais e Contatos.</h2>
 
 
  <a href="https://www.linkedin.com/in/diegodev37/" target="_blanck" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whte"></a><br><br>
